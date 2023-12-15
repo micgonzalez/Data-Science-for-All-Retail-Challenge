@@ -2,7 +2,7 @@
 This presentation deck was created as a project for the retail challenge for Data Analysts.  This presentation project was part of the Data Science for All Fall Cohort challenge. Tasked to present trends from the provided data and provide marketing recommendations.
 
 # Introduction
-This presentation deck was created as a project for the retail challenge for Data Analysts.  This presentation project was part of the Data Science for All Fall Cohort challenge. Tasked to present trends from the provided data and provide marketing recommendations. There is a Dashboard created from the same data that includes more metrics on <a href="https://public.tableau.com/app/profile/michael.gonzalez8104/viz/C1CustomerSegmentationandRetentionAnalysisDashboard/C1CustomerSegmentationandRetentionAnalysisDashboard" target="_blank">my Tableau Public profile page.</a>
+This presentation deck was created as a project for the retail challenge for Data Analysts.  This presentation project was part of the Data Science for All Fall Cohort challenge. Tasked to present trends from the provided data and provide marketing recommendations. The presentation video has been added to the files on this repository. There is a link for the presentation video: [Watch Here]( https://clipchamp.com/watch/1I5V2glVzUh) There is a Dashboard created from the same data that includes more metrics on [my Tableau Public profile page.](https://public.tableau.com/app/profile/michael.gonzalez8104/viz/C1CustomerSegmentationandRetentionAnalysisDashboard/C1CustomerSegmentationandRetentionAnalysisDashboard)
 
 This repository displays a presentation deck that was created for Data Science 4 All’s retail challenge. This challenge was created to have the Data Analyst work on their data cleaning, wrangling and presentation skills. <B>The anonymization data set used for this repository was provided by Data Science for All and we are not able to share it with the public.</B>  This presentation was created to showcase our skills from beginning to end.
 
@@ -17,7 +17,7 @@ Microsoft Excel was used to clean the data and look for overview trends. Tableau
 
 
 # Preview
-| ![Preview of Retail Challenge Presentation Deck.](..) |
+| ![Preview of Retail Challenge Presentation Deck.](https://github.com/micgonzalez/Data-Science-for-All-Retail-Challenge/blob/main/retail_challenge_presentation_preview.png) |
 |-|
 
 This is a preview of the Retail Challenge Presentation for Data Analysts.
