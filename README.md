@@ -2,7 +2,8 @@
 This presentation deck was created as a project for the retail challenge for Data Analysts.  This presentation project was part of the Data Science for All Fall Cohort challenge. Tasked to present trends from the provided data and provide marketing recommendations.
 
 # Introduction
-This presentation deck was created as a project for the retail challenge for Data Analysts.  This presentation project was part of the Data Science for All Fall Cohort challenge. Tasked to present trends from the provided data and provide marketing recommendations. There is a Dashboard created from the same data that includes more metrics on <a href="https://public.tableau.com/app/profile/michael.gonzalez8104/viz/C1CustomerSegmentationandRetentionAnalysisDashboard/C1CustomerSegmentationandRetentionAnalysisDashboard" target="_blank">my Tableau Public profile page.</a>
+This presentation deck was created as a project for the retail challenge for Data Analysts.  This presentation project was part of the Data Science for All Fall Cohort challenge. Tasked to present trends from the provided data and provide marketing recommendations. There is a Dashboard created from the same data that includes more metrics on <a href="https://www.markdownguide.org" target="_blank">Learn Markdown!</a>
+#<a href="https://public.tableau.com/app/profile/michael.gonzalez8104/viz/C1CustomerSegmentationandRetentionAnalysisDashboard/C1CustomerSegmentationandRetentionAnalysisDashboard" target="_blank">my Tableau Public profile page.</a>
 
 This repository displays a presentation deck that was created for Data Science 4 All’s retail challenge. This challenge was created to have the Data Analyst work on their data cleaning, wrangling and presentation skills. <B>The anonymization data set used for this repository was provided by Data Science for All and we are not able to share it with the public.</B>  This presentation was created to showcase our skills from beginning to end.
 
