@@ -24,7 +24,7 @@ This is a preview of the Retail Challenge Presentation for Data Analysts.
 
 
 # Findings
-My task was to discuss trends that correlated with purchasing trends, KPIs, and the retention rate of three consumer segments. The data did show that between 2016 to 2017 had profit margins, sales, and retention rates. The most profitable segment was the consumer segment, and the home office was the least profitable. Overall, the data showed the consumer segment should always be seen as a top priority when it comes to higher sales. 
+My task was to discuss trends that correlated with purchasing trends, KPIs, and the retention rate of three consumer segments. The data did show that between 2016 to 2017 had profit margins, sales, and retention rates. The most profitable segment was the consumer segment, and the home office was the least profitable. Overall, the data showed the consumer segment should always be seen as a top priority when it comes to higher sales. The presentation video has been added to the files on this repository. There is a link for the presentation video: [Watch Here]( https://clipchamp.com/watch/1I5V2glVzUh) There is a Dashboard created from the same data that includes more metrics on [my Tableau Public profile page.](https://public.tableau.com/app/profile/michael.gonzalez8104/viz/C1CustomerSegmentationandRetentionAnalysisDashboard/C1CustomerSegmentationandRetentionAnalysisDashboard)
 
 
 
@@ -33,4 +33,4 @@ The challenge for this retail challenge was looking at the different data sets t
 
 
 # Conclusion
-The presentation deck and presentation video were to inform the Data Science for All cohort about the discovered trends.  After conveying the trends, provide a few recommendations on which consumer segment to focus on. In all the findings, the consumer segment was the most profitable segment and finding way to keep their attention during the holiday season will need to a top priority.  It was great to go through the data and provide a summary of the trends to the cohort.
+The presentation deck and presentation video were to inform the Data Science for All cohort about the discovered trends.  After conveying the trends, provide a few recommendations on which consumer segment to focus on. In all the findings, the consumer segment was the most profitable segment and finding way to keep their attention during the holiday season will need to a top priority. It was great to go through the data and provide a summary of the trends to the cohort.
